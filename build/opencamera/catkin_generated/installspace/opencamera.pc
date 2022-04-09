@@ -1,0 +1,8 @@
+prefix=/home/sabach/cek/install
+
+Name: opencamera
+Description: Description of opencamera
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

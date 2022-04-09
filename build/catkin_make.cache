@@ -1,0 +1,2 @@
+materi_3:opencamera
+-DCATKIN_DEVEL_PREFIX=/home/sabach/cek/devel -DCMAKE_INSTALL_PREFIX=/home/sabach/cek/install -G Unix Makefiles
